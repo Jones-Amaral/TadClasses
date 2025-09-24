@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\TAD e Classes\\TadClasses\\Ex5\\Ex1.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\TAD e Classes\\Ex2\\Ex1.csproj",
       "projectName": "Ex1",
-      "projectPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\TAD e Classes\\TadClasses\\Ex5\\Ex1.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\TAD e Classes\\Ex2\\Ex1.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\TAD e Classes\\TadClasses\\Ex5\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Facul\\2 semestre\\AED\\Avaliativo\\TAD e Classes\\Ex2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
